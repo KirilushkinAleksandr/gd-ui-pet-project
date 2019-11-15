@@ -1,0 +1,25 @@
+{
+  "name": "gd-ui-pet-project",
+  "version": "1.0.0",
+  "description": "Grid Dynamics Internship PET project",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirilushkinAleksandr/gd-ui-pet-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirilushkinAleksandr/gd-ui-pet-project/issues"
+  },
+  "homepage": "https://github.com/KirilushkinAleksandr/gd-ui-pet-project#readme"
+}
